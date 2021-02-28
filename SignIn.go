@@ -15,8 +15,8 @@ import (
 
 const (
 	Skey    = "" //酷推 skey
-	Cookie  = "" //抓包Cookie
-	Referer = "" //抓包referer
+	Cookie  = "sajssdk_2015_cross_new_user=1; udata_account_300011972819=O7MbhLvKgHdUvHs%2FFo1eTdt0g8kn8IxPDIEALNwCPts%3D; userid_300011972819=1614541679332793714; udata_s_300011972819=1614541680262685408; CAIYUN-TOKEN=jxvPIXEbPaAZCKP/VW6a2sbansrAvW8bo6lYzxIgrEfm18QkPQwVnivg/X+TWsbiH3/b8iwJqlxo7+TckPWx3F2qZqoJYNLByPFSg5KuhCe/i2c+gy1OLJvF7Q69ouDvcOJT7X7YXylWsMHlARfAhKPBl1XWSrbjC3pZmI3ppec8vGYH/nGJm9GExCZS+0dmPjhiy5zvCMwd0OQcIgyPvzwvymJdHu6pJXgHaHOFgcFW8hzhN/Z8rM2AAMX0I6IzQKdLkqXk0l3921cT5mjclA==; CAIYUN-ACCOUNT=NZ2QaAJXzFXkeu7xSME7NA==; CAIYUN-ENCRYPT-ACCOUNT=MTM5Nzg3NDc0OTI=; CAIYUN-SIMPLIFY-ACCOUNT=139****7492; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%22177ea2ee7b91c6-0c80114184f5c2-43095b69-230400-177ea2ee7ba297%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%2C%22phoneNumber%22%3A%2213978747492%22%7D%2C%22%24device_id%22%3A%22177ea2ee7b91c6-0c80114184f5c2-43095b69-230400-177ea2ee7ba297%22%7D; sensors_stay_url=https%3A%2F%2Fyun.139.com%2Fm%2F%23%2Fdir%2F1811e671m18g056202102021346567un; sensors_stay_time=1614541879734" //抓包Cookie
+	Referer = "https://yun.139.com/m/" //抓包referer
 	UA      = "Mozilla/5.0 (Linux; Android 10; M2007J3SC Build/QKQ1.191222.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36 MCloudApp/7.6.0"
 )
 
